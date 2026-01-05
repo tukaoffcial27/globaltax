@@ -1,0 +1,16 @@
+[00:00:04.149] Server  LOG     ✓ Ready in 3.1s
+[00:00:15.089] Server  LOG     ○ Compiling /support/methodology ...
+[00:00:17.865] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:21.615] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'find')
+[00:05:22.461] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'find')
+[00:05:27.458] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'find')
+[00:05:29.015] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:29.564] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'find')
+[00:06:02.594] Server  ERROR   ⨯ TypeError: Cannot read properties of undefined (reading 'find')
+[00:06:03.754] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:04.067] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'find')
+[00:10:31.973] Server  LOG     ✓ Compiled in 907ms
+[00:10:34.791] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:59.313] Server  LOG     ✓ Compiled in 0ms
+[00:13:02.122] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:57.644] Browser LOG     Menghubungkan ke Supabase URL: https://uqjcptzcchtkdcpjlfdo.supabase.co

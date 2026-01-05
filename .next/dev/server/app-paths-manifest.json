@@ -1,0 +1,7 @@
+{
+  "/about/page": "app/about/page.js",
+  "/ai-vault/page": "app/ai-vault/page.js",
+  "/encyclopedia/page": "app/encyclopedia/page.js",
+  "/page": "app/page.js",
+  "/support/methodology/page": "app/support/methodology/page.js"
+}
