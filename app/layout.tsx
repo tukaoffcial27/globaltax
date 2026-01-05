@@ -29,6 +29,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${inter.variable} ${playfair.variable}`}>
+      <head>
+        {/* Google AdSense Script */}
+        <script 
+          async 
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6834526241041119"
+          crossOrigin="anonymous"
+        ></script>
+      </head>
       <body className="bg-[#FDFCFB] antialiased flex flex-col min-h-screen">
         <Navbar />
         <main className="flex-grow">
