@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///Users/riyadia/Desktop/globaltax-saas/app/legal/terms/page.tsx"],"sourcesContent":["export default function TermsPage() {\n  return (\n    <div className=\"max-w-4xl mx-auto py-32 px-8 text-black\">\n      <h1 className=\"text-5xl font-serif italic mb-12\">Terms of <span className=\"text-[#D4AF37]\">Service</span></h1>\n      <div className=\"prose prose-sm text-gray-500 font-light leading-loose space-y-6\">\n        <p>By accessing GlobalTax Lab, you agree to the strategic nature of our simulations. These tools are provided for intelligence and financial modeling purposes and do not constitute formal legal advice. Use of our \"Pro\" features is subject to a single-seat lifetime license.</p>\n      </div>\n    </div>\n  );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;0BACb,8OAAC;gBAAG,WAAU;;oBAAmC;kCAAS,8OAAC;wBAAK,WAAU;kCAAiB;;;;;;;;;;;;0BAC3F,8OAAC;gBAAI,WAAU;0BACb,cAAA,8OAAC;8BAAE;;;;;;;;;;;;;;;;;AAIX"}}]
-}
