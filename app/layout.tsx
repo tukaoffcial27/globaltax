@@ -17,6 +17,9 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "GlobalTax Laboratory | 2026 Fiscal Intelligence",
   description: "High-fidelity tax treaty simulations and jurisdictional intelligence matrix for global professionals.",
+  verification: {
+    google: "PwyP3PwrVtnSEF8EtLTs_LjdrA6SpeduAPLt-mohups",
+  },
 };
 
 export default function RootLayout({
